@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+httpx
+streamlit
+pandas
+plotly
+apscheduler
+python-dotenv
+requests
+twilio
+email-validator
+geopy
