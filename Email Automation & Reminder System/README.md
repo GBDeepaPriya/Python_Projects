@@ -151,26 +151,26 @@ Dashboard Updates in Real-Time
 ---
 ## 📊 Sample Input Format
 Contacts
-John Doe, john@gmail.com
-Jane Smith, jane@gmail.com
+- John Doe, john@gmail.com
+- Jane Smith, jane@gmail.com
 
 Reminder Example
-Email: test@gmail.com
-Subject: Meeting Reminder
-Time: 2026-05-09 18:30:00
+- Email: test@gmail.com
+- Subject: Meeting Reminder
+- Time: 2026-05-09 18:30:00
 
 ---
 ## 👨‍💻 Learning Outcomes
 
 This project demonstrates:
 
-Email automation using SMTP
-Streamlit web app development
-Database management (SQLite)
-Background task execution
-Scheduling systems
-CRUD operations in Python
-Real-world automation system design
+- Email automation using SMTP
+- Streamlit web app development
+- Database management (SQLite)
+- Background task execution
+- Scheduling systems
+- CRUD operations in Python
+- Real-world automation system design
 
 ---
 ## Sample Outputs
