@@ -141,3 +141,8 @@ python main.py
 streamlit run dashboard/streamlit_app.py
 
 # 🖼️ Sample Output
+<img width="1065" height="736" alt="Dashboard1" src="https://github.com/user-attachments/assets/05e4bc86-a155-40e0-bbe6-338b66581dc9" />
+<img width="1333" height="707" alt="Dashboard2" src="https://github.com/user-attachments/assets/77c9c3ef-a2c3-4849-8e47-a75e9410cc3a" />
+<img width="1760" height="398" alt="Dashboard3" src="https://github.com/user-attachments/assets/3c4a4584-4dbd-4671-b597-cee2e3be928b" />
+<img width="743" height="771" alt="Dashboard4" src="https://github.com/user-attachments/assets/58e87ac4-1e4c-40e4-8e02-471ea7a18ed8" />
+<img width="603" height="761" alt="Dashboard5" src="https://github.com/user-attachments/assets/d8ada3cd-bef8-4695-adfd-34bf8e45ace5" />
