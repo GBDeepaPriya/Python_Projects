@@ -1,0 +1,31 @@
+Job Title: Data Scientist
+
+Job Summary:
+We are looking for a Data Scientist to join our AI team. The candidate will work on machine learning models, data analysis, and AI-driven solutions.
+
+Responsibilities:
+- Build and deploy machine learning models
+- Work with large datasets and perform data analysis
+- Develop predictive models for business problems
+- Collaborate with engineering teams for deployment
+
+Must Have Skills:
+- Python
+- Machine Learning
+- SQL
+- Pandas
+- NumPy
+- Scikit-learn
+
+Nice to Have Skills:
+- Deep Learning
+- TensorFlow
+- PyTorch
+- AWS or Cloud platforms
+- NLP experience
+
+Experience Required:
+Minimum 2+ years in Data Science / Machine Learning
+
+Education:
+B.Tech / M.Tech in Computer Science, Data Science, or related field

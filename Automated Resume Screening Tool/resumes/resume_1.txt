@@ -1,0 +1,18 @@
+Name: Rahul Sharma
+Email: rahul.sharma@gmail.com
+Phone: +91-9876543210
+Location: Bangalore, India
+
+Professional Summary:
+Data Scientist with 3 years of experience in building machine learning models, data analysis, and AI solutions.
+
+Skills:
+Python, Machine Learning, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Analysis
+
+Experience:
+- Worked at XYZ Analytics (2022-2025)
+- Built predictive models for customer churn
+- Developed ML pipelines for real-time data processing
+
+Education:
+B.Tech in Computer Science, IIT Delhi

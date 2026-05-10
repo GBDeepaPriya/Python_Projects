@@ -1,0 +1,17 @@
+Name: Ankit Verma
+Email: ankit.verma@gmail.com
+Phone: +91-9123456780
+Location: Pune, India
+
+Professional Summary:
+Software Engineer with experience in Java backend development.
+
+Skills:
+Java, Spring Boot, Hibernate, REST APIs, MySQL
+
+Experience:
+- Backend Developer at ABC Tech (2023-2025)
+- Developed REST APIs for e-commerce platform
+
+Education:
+B.E in Information Technology, Pune University

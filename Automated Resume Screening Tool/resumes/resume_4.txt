@@ -1,0 +1,17 @@
+Name: Priya Nair
+Email: priya.nair@gmail.com
+Phone: +91-9090909090
+Location: Chennai, India
+
+Professional Summary:
+Fresher with internship experience in data analysis.
+
+Skills:
+Python, Excel, Pandas, Data Visualization
+
+Experience:
+- Data Science Intern at Startup XYZ (6 months)
+- Worked on data cleaning and dashboards
+
+Education:
+B.Sc Computer Science, University of Madras

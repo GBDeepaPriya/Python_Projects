@@ -1,0 +1,18 @@
+Name: Sneha Iyer
+Email: sneha.iyer@gmail.com
+Phone: +91-9988776655
+Location: Hyderabad, India
+
+Professional Summary:
+Experienced Data Scientist with 4+ years in Machine Learning, AI, and Data Engineering.
+
+Skills:
+Python, SQL, Machine Learning, Deep Learning, NLP, Pandas, NumPy, Scikit-learn, AWS
+
+Experience:
+- Senior Data Scientist at Infosys (2021-2025)
+- Built NLP models for chatbot systems
+- Designed ML pipelines on AWS
+
+Education:
+M.Tech in Data Science, IIIT Hyderabad

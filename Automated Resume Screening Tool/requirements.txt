@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+sentence-transformers
+pdfminer.six
+python-docx
+rapidfuzz
+streamlit
+requests
