@@ -262,12 +262,13 @@ http://localhost:8501
 - Temperature Forecast
 - Rain Forecast
 - Wind Forecast
-<img width="1527" height="758" alt="Dashboard1" src="https://github.com/user-attachments/assets/c51885ee-4941-4aa5-a7d2-20ea8413edb9" />
-<img width="1781" height="716" alt="Dashboard2" src="https://github.com/user-attachments/assets/4b23b452-9981-48db-9fa8-009f75ee78dc" />
-<img width="1817" height="698" alt="Dashboard3" src="https://github.com/user-attachments/assets/896aac86-7cf9-44b3-9907-d06af1923c8b" />
-<img width="1817" height="633" alt="Dashboard4" src="https://github.com/user-attachments/assets/427f3b81-0887-4898-8b86-238f876d1a39" />
-<img width="1212" height="722" alt="Dashboard5" src="https://github.com/user-attachments/assets/03811bd1-441e-44e9-9e7d-eb6a56ba45d4" />
-<img width="1340" height="632" alt="Dashboard6" src="https://github.com/user-attachments/assets/09d1a37a-8b7e-419a-80d0-e57261ee3a8a" />
+<img width="1762" height="685" alt="Dashboard1" src="https://github.com/user-attachments/assets/3ac78929-d426-4214-9252-52fe982de97d" />
+<img width="1480" height="755" alt="Dashboard2" src="https://github.com/user-attachments/assets/56dd0c31-c0eb-429e-9b34-98b5d1c5461e" />
+<img width="1751" height="771" alt="Dashboard3" src="https://github.com/user-attachments/assets/49207e27-e411-45fe-be37-728c5b26a03a" />
+<img width="1756" height="591" alt="Dashboard4" src="https://github.com/user-attachments/assets/5c425556-1bb8-4754-a65a-20e65a936b1e" />
+<img width="1765" height="607" alt="Dashboard5" src="https://github.com/user-attachments/assets/354cf910-4d63-412f-92b9-46ffd2e9424a" />
+<img width="1755" height="812" alt="Dashboard6" src="https://github.com/user-attachments/assets/da0f14c9-4cf8-4f95-9d8c-3892db8f3b51" />
+
 
 ## Email Alerts
 
