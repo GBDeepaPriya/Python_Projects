@@ -129,12 +129,14 @@ Visualization + Backtesting
 ---
 
 # Sample Outputs
-<img width="1782" height="490" alt="Dashboard1" src="https://github.com/user-attachments/assets/d9c02a0a-786f-40c2-ae46-5abe7b40dae6" />
-<img width="1767" height="691" alt="Dashboard2" src="https://github.com/user-attachments/assets/1e813b5f-2a87-428a-83d2-b9e29834377d" />
-<img width="1772" height="447" alt="Dashboard3" src="https://github.com/user-attachments/assets/83510a77-33fa-4acc-a95d-3e07aa8dd12c" />
-<img width="1787" height="787" alt="Dashboard4" src="https://github.com/user-attachments/assets/c201e3f2-26c8-4cad-81f5-ed780158cd66" />
-<img width="1823" height="792" alt="Dashboard5" src="https://github.com/user-attachments/assets/620286a3-7c37-4649-b55a-75abfa80a141" />
-<img width="1800" height="447" alt="Dashboard6" src="https://github.com/user-attachments/assets/189e721b-8710-4ba3-9a89-6e95d148ceea" />
-<img width="1756" height="675" alt="Dashboard7" src="https://github.com/user-attachments/assets/87ee5757-e6f5-4ba9-aa24-8c3eabda13b2" />
+<img width="1822" height="480" alt="Dashboard1" src="https://github.com/user-attachments/assets/43a60888-0f7a-448d-9109-bdb4c9122343" />
+<img width="1447" height="692" alt="Dashboard2" src="https://github.com/user-attachments/assets/5b63d096-6597-4f5a-baf4-855bae0539c1" />
+<img width="1477" height="482" alt="Dashboard3" src="https://github.com/user-attachments/assets/4d8064ee-92cc-4fc7-bede-82fb61ddab76" />
+<img width="1457" height="627" alt="Dashboard4" src="https://github.com/user-attachments/assets/099aa0b7-0b34-4c85-9b4e-dc0bcdb1099a" />
+<img width="1502" height="527" alt="Dashboard5" src="https://github.com/user-attachments/assets/f3c9d938-af29-428d-ba41-d6e6feae3aa6" />
+<img width="1497" height="405" alt="Dashboard6" src="https://github.com/user-attachments/assets/5d58b8be-f74e-451d-80f9-d9123efec102" />
+<img width="1505" height="426" alt="Dashboard7" src="https://github.com/user-attachments/assets/cdddc6da-da48-48a6-8448-3c86ea0bb7bf" />
+<img width="1437" height="562" alt="Dashboard8" src="https://github.com/user-attachments/assets/30aec5d0-674a-4829-aa76-e7d6b953fed4" />
+
 
 
