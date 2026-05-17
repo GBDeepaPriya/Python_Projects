@@ -92,13 +92,15 @@ python main.py
 streamlit run src/app_streamlit.py
 
 # 📊 Sample Output
-<img width="1783" height="383" alt="Dashboard 3" src="https://github.com/user-attachments/assets/e74be37d-91cb-484c-ab07-b9d68cf1d6dc" />
-<img width="1442" height="701" alt="Dashboard 4" src="https://github.com/user-attachments/assets/077c3b12-7fa0-4573-97e8-a51efedc13d6" />
-<img width="1326" height="440" alt="Daily Tracker" src="https://github.com/user-attachments/assets/0cd21c6e-b55f-48a1-8373-2f8b965ade89" />
-<img width="1813" height="735" alt="Dashboard" src="https://github.com/user-attachments/assets/1c94ad37-1033-49f6-aac0-5c76c571c6df" />
-<img width="1400" height="592" alt="Dashboard 2" src="https://github.com/user-attachments/assets/b0a6bdc6-893d-45a2-8a48-37dae3139edf" />
-<img width="712" height="697" alt="Spending Distribution" src="https://github.com/user-attachments/assets/0c7147c5-e79b-46f1-8863-6e73e0f9373a" />
-<img width="1427" height="350" alt="visualization (1)" src="https://github.com/user-attachments/assets/56e910f0-d4ba-4b47-b6a7-6b9f7f4dcb4e" />
-<img width="1427" height="350" alt="visualization (2)" src="https://github.com/user-attachments/assets/a71101ea-02cc-4797-94ec-bd2efee2688e" />
+<img width="1772" height="807" alt="Dashboard 1" src="https://github.com/user-attachments/assets/647893d0-5790-4ea5-a4c3-9f2459f26785" />
+<img width="1767" height="667" alt="Dashboard 2" src="https://github.com/user-attachments/assets/8e7e765c-efd5-468d-8d61-a4b957ea6121" />
+<img width="1461" height="477" alt="Dashboard 3" src="https://github.com/user-attachments/assets/89bd039e-07b2-4ce6-ba93-a732e71116b4" />
+<img width="1410" height="457" alt="Dashboard 4" src="https://github.com/user-attachments/assets/1027decf-5a51-4ba8-8f1e-c1bc4fba54d3" />
+<img width="1430" height="447" alt="Dashboard 5" src="https://github.com/user-attachments/assets/25dde2d0-3b22-4b42-956f-b348df5d28f0" />
+<img width="1750" height="677" alt="Dashboard 6" src="https://github.com/user-attachments/assets/253b6d18-9bef-4dc3-a982-84522640a01e" />
+<img width="1475" height="491" alt="Dashboard 7" src="https://github.com/user-attachments/assets/ea821847-0df4-4244-8c8f-e3335750e48d" />
+<img width="1442" height="446" alt="Dashboard 8" src="https://github.com/user-attachments/assets/65144955-5bd5-4a90-91d2-1350c7f1dc3d" />
+<img width="1442" height="807" alt="Dashboard 9" src="https://github.com/user-attachments/assets/883c87ef-0ec4-45b8-a4bd-8c073b902ef3" />
+
 
 
